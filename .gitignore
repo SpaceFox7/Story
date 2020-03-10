@@ -1,0 +1,5 @@
+pass.txt
+.DS_Store
+
+#API Key ignored obviously duh
+*.key
